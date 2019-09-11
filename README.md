@@ -13,5 +13,5 @@
 3.**九宫格坐标定位**：把当前画面划分为九宫格，使用摄像头对目标物体进行颜色识别跟踪，把摄像头坐标返回到屏幕，再取消九宫格中对应的方框，达到九宫格坐标定位。  
 
 ## 界面：  
-![](https://github.com/omega-Lee/-STM32F4-/blob/master/demo.jpg)
+![](https://github.com/omega-Lee/STM32F4图像处理/blob/master/demo.jpg)
 
